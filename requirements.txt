@@ -1,0 +1,6 @@
+mysql-connector-python
+sqlalchemy
+faker
+passlib[bcrypt]
+faker-food
+
